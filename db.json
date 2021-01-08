@@ -1,4 +1,5 @@
 {
-    "rc":"00",
-    "status":"1"
+    "keuangan": {
+        "status": "1"
+    }
 }
